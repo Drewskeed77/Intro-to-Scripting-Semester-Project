@@ -1,7 +1,49 @@
-# Project Zomboid Modding Tool
 
-# Overview
+# Project Zomboid Modding Tool / Manager CLI
 
-The Project Zomboid Modding Tool aims to simplify and streamline the modding process for Project Zomboid, a popular survival game. Modding in Project Zomboid can be tedious and time-consuming due to the need for manual setup of mod structures, defining game items, and other repetitive tasks. This tool aims to automate much of this work, enabling modders to focus on creative content rather than setup.
+<p align="center">
+<img src="https://images.gog-statics.com/997a880a5624334e379dfe5bfc63191f8af379937de97d821c6ccba044899c2a.jpg" />
+</p>
 
-This tool will be a cross-platform solution, designed to work on both Windows and Linux environments, leveraging Python for the backend, with Bash and Batch scripting to ensure compatibility across operating systems. It will allow users to quickly generate mod directories, create items, recipes, and other mod assets with minimal effort.
+## Overview
+
+A command-line tool for creating, managing, and installing mods/items for Project Zomboid. The PZ Modding Tool is a cross-platform CLI solution that automates tedious setup and mod creation tasks for the game Project Zomboid. By leveraging Python with Bash/Batch scripts, it eliminates manual setup work, generating mod directories, items, recipes, etc with minimal commands. This ultimately helps modders so that they can focus more on creative content rather than file structure and syntax.
+
+## Installation
+
+<p align="center">
+<img src="https://img.icons8.com/color/96/000000/linux.png" width="100" alt="Linux"/>
+  <img src="https://img.icons8.com/fluency/96/000000/console.png" width="100" alt="CLI Icon"/>
+  <img src="https://img.icons8.com/color/96/000000/windows8.png" width="100" alt="Windows"/>
+</p>
+
+### 🚀 Quick Start
+
+#### Clone Repository
+<code>git clone https://github.com/Drewskeed77/Intro-to-Scripting-Semester-Project.git
+cd Intro-to-Scripting-Semester-Project<code/>
+
+**Linux:**
+Make scripts executable on your machine:
+<code>chmod +x Linux/*.sh<code/>
+**Windows:**
+Doesn't require any permission changes ready out of the box!
+
+To run:
+`python modmanager.py` for Windows
+`python3 modmanager.py` for Linux/Unix
+
+## Features
+
+**Mod Management**
+Create/install/delete mods 📦
+
+**Item Creation**
+Generate weapons, food, clothing 🛠️
+
+**Cross-Platform**
+Windows & Linux support 💻
+
+<p align="center">
+**This is a WIP project readme is subject to change**
+</p>

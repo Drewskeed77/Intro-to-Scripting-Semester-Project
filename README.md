@@ -20,30 +20,30 @@ A command-line tool for creating, managing, and installing mods/items for Projec
 ### 🚀 Quick Start
 
 #### Clone Repository
-<code>git clone https://github.com/Drewskeed77/Intro-to-Scripting-Semester-Project.git
-cd Intro-to-Scripting-Semester-Project<code/>
+`git clone https://github.com/Drewskeed77/Intro-to-Scripting-Semester-Project.git
+cd Intro-to-Scripting-Semester-Project`
 
-**Linux:**
+### Linux:
 Make scripts executable on your machine:
-<code>chmod +x Linux/*.sh<code/>
-**Windows:**
+`chmod +x Linux/*.sh`
+### Windows:
 Doesn't require any permission changes ready out of the box!
 
-To run:
-`python modmanager.py` for Windows
-`python3 modmanager.py` for Linux/Unix
+### To run:
+Windows: `python modmanager.py`
+Linux/Unix: `python3 modmanager.py`
 
 ## Features
 
-**Mod Management**
+### Mod Management
 Create/install/delete mods 📦
 
-**Item Creation**
+### Item Creation
 Generate weapons, food, clothing 🛠️
 
-**Cross-Platform**
+### Cross-Platform
 Windows & Linux support 💻
 
 <p align="center">
-**This is a WIP project readme is subject to change**
+This is a WIP project readme is subject to change
 </p>

@@ -1,0 +1,13 @@
+2025-05-05 13:50:17,070 - INFO - Config file not found. Creating new one.
+2025-05-05 13:50:17,071 - INFO - Config file not found. Creating new one.
+2025-05-05 13:50:17,071 - INFO - Config file not found. Creating new one.
+2025-05-05 14:02:38,664 - INFO - Config file not found. Creating new one.
+2025-05-05 14:08:47,639 - INFO - Configuration saved successfully.
+2025-05-05 14:08:56,375 - INFO - Created structure for mod: Yo2 with folders: anims, animscript, AnimSets, animsold, animstates, anims_X, ui, clothing, hairStyles, geomTextures, textures, texturepacks
+2025-05-05 14:08:56,376 - INFO - Created new mod: Yo2
+2025-05-05 14:10:20,280 - INFO - Successfully installed mod: Yo2
+2025-05-05 14:12:15,355 - INFO - Configuration saved successfully.
+2025-05-05 14:12:58,074 - INFO - Created structure for mod: FinalTestMod with folders: geomTextures, textures, texturepacks, models, models_X, gibs, scripts, scripts/clothing, scripts/vehicles, scripts/weapons, sound, music
+2025-05-05 14:12:58,074 - INFO - Created new mod: FinalTestMod
+2025-05-05 14:14:07,049 - INFO - Successfully created model: SuperBeans_WorldStatic for mod: FinalTestMod
+2025-05-05 14:14:59,284 - INFO - Successfully installed mod: FinalTestMod

@@ -1,0 +1,15 @@
+# Force shell scripts to use LF
+*.sh text eol=lf
+
+# Force batch files and Windows-specific files to use CRLF
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# Text files that should stay LF or CRLF
+*.txt text
+*.json text
+*.log text
+
+# Prevent Git from touching binary files
+*.png binary
+*.jpg binary

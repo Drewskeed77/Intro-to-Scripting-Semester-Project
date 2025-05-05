@@ -43,7 +43,3 @@ Generate weapons, food, clothing 🛠️
 
 ### Cross-Platform
 Windows & Linux support 💻
-
-<p align="center">
-This is a WIP project readme is subject to change
-</p>
